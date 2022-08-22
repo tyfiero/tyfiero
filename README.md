@@ -6,7 +6,7 @@ https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=fl
 ### Languages:  ![JavaScipt](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
   
 
-### Web Dev:  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat&logoWidth=30) ![Next JS](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat&logoWidth=30) ![Tailwind CSS](https://img.shields.io/badge/-TailWind%20CSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat&logoWidth=30) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white&style=flat&logoWidth=30)
+### Web Dev:  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge) ![Next JS](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge) ![Tailwind CSS](https://img.shields.io/badge/-TailWind%20CSS-06B6D4?logo=tailwind-css&logoColor=white&style=for-the-badge) ![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=black&style=for-the-badge) ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=black&style=for-the-badge)   ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge) ![p5.js](https://img.shields.io/badge/-p5.js-ED225D?logo=p5.js&logoColor=black&style=for-the-badge) ![Three.js](https://img.shields.io/badge/-Three.js-black?logo=p5.js&logoColor=white&style=for-the-badge)
 
 
 <!--
