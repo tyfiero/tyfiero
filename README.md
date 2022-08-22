@@ -2,8 +2,8 @@
 
 [![Website](https://img.shields.io/badge/tyfiero.com-0FA5E9?style=flat)](https://tyfiero.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ty-fiero/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=linkedin&logoColor=white)](mailto:tyfierodev@gmail.com?subject=Hey Ty!)
-
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:tyfierodev@gmail.com?subject=Hey Ty!)
+[Email](mailto:tyfierodev@gmail.com?subject=Hey Ty!)
 I'm Ty, a self-taught developer building cool projects in Seattle, Washington. 
 
 I'm interested in beautiful user experiences with modern web technologies, and playing with AI through GPT-3 and  AI image generators like DALLE-2 & MidJourney. 
