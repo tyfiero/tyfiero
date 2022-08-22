@@ -19,3 +19,6 @@ My inbox is always open if you would like to collaborate or work with me! 😄
 
 ### 🍎 I'm currently learning:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Three.js](https://img.shields.io/badge/-Three.js-black?logo=three.js&logoColor=white&style=for-the-badge)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tyfiero&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
