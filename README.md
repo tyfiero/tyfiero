@@ -10,7 +10,7 @@ I'm Ty, a self-taught developer building cool projects in Seattle, Washington.
 
 I'm interested in beautiful user experiences with modern web technologies, and playing with AI through GPT-3 and  AI image generators like DALLE-2 & MidJourney. 
 
-I started my career in Microbiology, but I shifted into web development in June of 2021 because I wanted to more oportunities to express my creativity and build useful things to share with the world.
+I started my career in Microbiology, but I shifted into web development in June of 2021 because I wanted to more oportunities to express my creativity and build useful things to share with the world. Check out my website for a list of my projects and past work. 
 
 My inbox is always open if you would like to collaborate or work with me! 😄
 
