@@ -19,3 +19,8 @@ My inbox is always open for collaboration or work! 😄
 
 ### 🍎 I'm currently learning:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Three.js](https://img.shields.io/badge/-Three.js-black?logo=three.js&logoColor=white&style=for-the-badge)
+
+![Metrics](https://metrics.lecoq.io/tyfiero?template=classic&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&lines=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&config.timezone=America%2FLos_Angeles)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tyfiero&theme=nord_bright)
+
