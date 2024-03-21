@@ -6,7 +6,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-tyfiero@gmail.com-informational?style=flat-square&color=EA4335&logo=gmail&logoColor=white)](mailto:tyfierodev@gmail.com?subject=Hey%20Ty!)
 
 
-I'm Ty, a self-taught developer building cool projects in Seattle, Washington. I currently work at Virginia Commonwealth University as a lead front end developer building web applications to support VCU Research. 
+I'm Ty, a self-taught developer building cool projects in Seattle, Washington. I currently work at Open Interpreter crafting new ways to interact with your computer.
 
 I'm interested in beautiful user experiences with modern web technologies, and playing with AI through LangChain and AI image generators like DALLE-2 & MidJourney. 
 
