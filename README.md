@@ -6,7 +6,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-tyfiero@gmail.com-informational?style=flat-square&color=EA4335&logo=gmail&logoColor=white)](mailto:tyfierodev@gmail.com?subject=Hey%20Ty!)
 
 
-I'm Ty, a self-taught developer building cool projects in Seattle, Washington. I'm the CTO of my new startup, building advanced agentic systems. 
+I'm Ty, a self-taught developer building cool projects in Seattle, Washington. I'm the CEO of Regia Labs, building advanced agentic systems. 
 
 I started my career in Microbiology, but I shifted to web development in June of 2021 because I wanted to have more opportunities to express my creativity and build valuable things to share with the world. Check out my website for a list of my projects and past work. 
 
